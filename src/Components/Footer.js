@@ -7,6 +7,7 @@ const Footer = styled.footer`
   flex-wrap: wrap;
   font-size: 12px;
   font-weight: 600;
+  margin: 50px 0;
 `;
 
 const List = styled.ul`
