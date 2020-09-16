@@ -21,6 +21,7 @@ const Header = styled.header`
   display: flex;
   justify-content: center;
   align-items: center;
+  z-index: 12;
 `;
 
 const HeaderWrapper = styled.div`
